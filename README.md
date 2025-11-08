@@ -3,9 +3,7 @@
 The BREW HEAVEN COFFEE SHOP Owner wants to create an annual sales report for 2025. So that, the owner of the BREW HEAVEN COFFEE SHOP can understand The Busness Condition And Total Profit And Loss In The Business.
 
 ## Dataset used
-- <a href=>Dataset-1</a>
-
-- <a href="https://github.com/JadhavDarshan010/Fresh-Mart-Data-Analysis-Project/blob/main/FreshMart%20Annual%20Report%20(dashbord).xlsx">Dataset-2 (With Dashboards)</a>
+- <a href="https://github.com/JadhavDarshan010/BREWHEAVEN-COFFEE-SHOP-DATA-ANALYSIS-PROJECT-IN-MS--EXCEL/blob/main/dashboard%20img-1.png">Dataset(main Dashboard) </a>
 
 
 ## Questions -
@@ -14,16 +12,8 @@ The BREW HEAVEN COFFEE SHOP Owner wants to create an annual sales report for 202
 3. Which Products Are my Top 5 Sellers, Which Item Are Not Selling Well (Bottom 5 Products).
 4. Month-Wise Sales trend (In Which Month They Sold Most Of the Products)?
 5. The Owner Suspected That Summer Month (Apr - June) Has The Highest Beverage  Sales , Conform That .
-6. Show The Seasonal Trend For Major Categories Like Milk And Fruits 
-7. Compare The Sales Of Jan With Dec To See Did Our year End  Discount Worked Or Not.
-8. How Much did They Actually Lose In Total Discount ? 
-9. Show Average Profit Margin (Profit Gain) by Category (Top 5 Only) ?
-10. Which Payment Mode Is Used Most ?Do some Region Prefer Cash Over Digital ?
-11. Identify Top 10 Customers by Total Yearly Spending?
-
-- Dashboard Interaction <a href="https://github.com/JadhavDarshan010/Fresh-Mart-Data-Analysis-Project/blob/main/Dashboard-1.png">View Dashboard - 1</a
-
-- Dashboard Interaction <a href="https://github.com/JadhavDarshan010/Fresh-Mart-Data-Analysis-Project/blob/main/Dashboard-2.png">View Dashboard - 2</a>
+Here Is The Full img of All The Question's
+- Dashboard Interaction <a href="https://github.com/JadhavDarshan010/Fresh-Mart-Data-Analysis-Project/blob/main/Dashboard-1.png">View Dashboard - 1</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.

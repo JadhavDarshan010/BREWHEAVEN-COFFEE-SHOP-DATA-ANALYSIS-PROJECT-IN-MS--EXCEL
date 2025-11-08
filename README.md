@@ -7,7 +7,7 @@ The BREW HEAVEN COFFEE SHOP Owner wants to create an annual sales report for 202
 
 - <a href="https://github.com/JadhavDarshan010/BREWHEAVEN-COFFEE-SHOP-DATA-ANALYSIS-PROJECT-IN-MS--EXCEL/blob/main/BrewHeaven%20Dashboard%20(2).xlsx">Procesed Data With The Dashboard </a>
 
-
+ 
 ## Questions -
 1. Which Region Performed The Best Overall, Which Store Within That Region Generated The Highest Revenue And Which Region Has Underperformed In That Specific Region Region.
 2. Which Category Brought In Most Of The Total Revenue This year. 

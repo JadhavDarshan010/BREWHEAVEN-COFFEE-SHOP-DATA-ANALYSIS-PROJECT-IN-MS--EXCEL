@@ -15,7 +15,7 @@ The BREW HEAVEN COFFEE SHOP Owner wants to create an annual sales report for 202
 4. Month-Wise Sales trend (In Which Month They Sold Most Of the Products)?
 5. The Owner Suspected That Summer Month (Apr - June) Has The Highest Beverage  Sales , Conform That .
 Here Is The Full img of All The Question's
-- Dashboard Interaction <a href="https://github.com/JadhavDarshan010/BREWHEAVEN-COFFEE-SHOP-DATA-ANALYSIS-PROJECT-IN-MS--EXCEL/blob/main/questions%20-1.png">View All Question's Here</a>
+- All about Customer Querries <a href="https://github.com/JadhavDarshan010/BREWHEAVEN-COFFEE-SHOP-DATA-ANALYSIS-PROJECT-IN-MS--EXCEL/blob/main/questions%20-1.png">View All Question's Here</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.

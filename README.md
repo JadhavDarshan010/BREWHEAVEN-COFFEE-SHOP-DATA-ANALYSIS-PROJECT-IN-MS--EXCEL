@@ -6,6 +6,7 @@ The BREW HEAVEN COFFEE SHOP Owner wants to create an annual sales report for 202
 - <a href="https://github.com/JadhavDarshan010/BREWHEAVEN-COFFEE-SHOP-DATA-ANALYSIS-PROJECT-IN-MS--EXCEL/blob/main/dashboard%20img-1.png">Dataset(raw Dashboard) </a>
 
 - <a href="https://github.com/JadhavDarshan010/BREWHEAVEN-COFFEE-SHOP-DATA-ANALYSIS-PROJECT-IN-MS--EXCEL/blob/main/BrewHeaven%20Dashboard%20(2).xlsx">Procesed Data With The Dashboard </a>
+- <a href="https://youtu.be/qLPS_LzjV8g?si=6e2HumRMXqXInDLa"> Video Explanation Of The Project </a>
 
  
 ## Questions -
